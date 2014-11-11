@@ -9,3 +9,12 @@
 3. How can you use the staging area to make sure you have one commit per logical change?
 
 -comparing file in staging area with file in working directory
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- trying new functions
+- new features that will not be in the standard
+
+5. How do the diagrams help you visualize the branch structure?
+
+- the tree structure shows it's visualy
